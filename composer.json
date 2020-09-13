@@ -3,7 +3,7 @@
   "description": "Datastore",
   "minimum-stability": "stable",
   "license": "proprietary",
-  "type": "dev",
+  "type": "library",
   "authors": [
     {
       "name": "avz-cmf",
